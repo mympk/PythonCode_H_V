@@ -6,7 +6,7 @@ n=132
 print(n)  ##132
 print('n'+'n') ##nn ?
 
-Naming variable
+#Naming variable
 #Its means How we name or assign a variable
 #Rule
 #1.Can use Underspace(_) before variable
