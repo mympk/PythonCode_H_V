@@ -1,29 +1,36 @@
 #python 02_Command_Line.py
 
-//pwd
+#pwd
 #Print Working Directory
-//ls
-#List 
-//cd
+
+#ls
+#List
+
+#cd
 #Chnge Directory
-//cd ..
+
+#cd ..
 #Back to past folder
-//mkdir
-#making directory/Create folder 
-// mkdir "..."
-// mkdir new_folder
 
-//touch "..."
+#mkdir
+#making directory/Create folder
+
+#mkdir new_folder
+
+#touch "..."
+
 #Create file
-//code "..."
+
+#code "..."
 #code file
-//python --version
+
+#python --version
 #check version
-//python "....py"
 
+#python "....py"
 
-//rm "..."
+#rm "..."
 #remove or delete file
 
-//rm -rf "..."
-#remove folder 
+#rm -rf "..."
+#remove folder
