@@ -22,7 +22,7 @@ num%ber='\'m'
 print(num%ber) ##Error
 
 #4.Cant use number before & after variable
-1name='Python'
+1name='Python' #Error
 print(1name) ##Error
 name1='Python' ##Error
 
